@@ -1,27 +1,47 @@
-# projeto_aplicado_mack
-Análise exploratória de dados da Varejista Contoso em R.
+## Título do trabalho
 
-# Projeto Aplicado I – Mackenzie
+Análise Exploratória de Dados: Performance da Varejista Fictícia Contoso, uma abordagem em R.
 
-Análise exploratória de dados da Varejista Contoso usando R.
+## Membros do grupo
 
-##  Objetivo
-Realizar a análise exploratória dos dados da Contoso para identificar **KPIs de vendas** e **métricas operacionais**, apoiando a tomada de decisão.
+Bruna Graciano
 
-##  Estrutura do repositório
+Guilherme Marques Gomes dos Santos
 
+Sophia Pereira Ramos
 
-##  Integrantes
-- Fulano da Silva – RA XXXXXXX  
-- Sicrana Souza – RA XXXXXXX  
-- Beltrano Oliveira – RA XXXXXXX  
+## Contexto do estudo
 
-## Tecnologias
-- R  
-- RStudio  
-- Bibliotecas: tidyverse, ggplot2, dplyr  
+O estudo busca analisar a performance da empresa fictícia Contoso, criada pela Microsoft para fins de demonstração em ferramentas de Business Intelligence (BI). O objetivo é explorar o dataset em R, compreendendo métricas de vendas e performance operacional.
 
-##  Como executar
-1. Clonar este repositório:  
-   ```bash
-   git clone https://github.com/seu-usuario/projeto_aplicado_i_mack.git
+## Referências de aquisição do dataset
+
+Origem: SQL BI - Contoso Data Generator V2 - Data
+
+Período da coleta: de 18/05/2021 a 20/04/2024
+
+Licença: MIT License (uso comercial e não-comercial permitido, com obrigação de manter o aviso de copyright).
+
+## Descrição da origem
+
+A Microsoft desenvolveu o dataset para demonstrações de BI em ambientes corporativos. Ele representa operações de uma empresa fictícia do setor de varejo, permitindo análises exploratórias em diferentes ferramentas de análise de dados.
+
+## Descrição do dataset
+
+O dataset contém múltiplos arquivos que representam dimensões como:
+
+Vendas (Sales)
+
+Pedidos (Orders)
+
+Produtos (Products)
+
+Clientes (Customers)
+
+Lojas (Stores)
+
+Câmbio de moedas (CurrencyExchanges)
+
+Datas (Date)
+
+Esses dados permitem estudar KPIs de vendas, métricas de performance operacional e comportamento do cliente.

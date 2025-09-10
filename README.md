@@ -1,5 +1,9 @@
-## Análise Exploratória de Dados: Performance da Varejista Fictícia Contoso, uma abordagem em R.
+# Projeto Aplicado I - Análise Exploratória de Dados
 
+## 🎯 Título do Trabalho
+Análise Exploratória de Dados: Performance da Varejista Fictícia Contoso, uma abordagem em R.
+
+## 👥 Membros do Grupo
 
 Bruna Graciano
 

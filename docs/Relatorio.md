@@ -144,3 +144,14 @@ Indicadores consolidados em tabelas resumo.
 ## Conclusão
 
 A análise exploratória do dataset Contoso permitirá compreender melhor os fatores que impactam a performance do varejo, auxiliando em decisões estratégicas relacionadas a vendas, custos e comportamento do cliente.
+## Gráficos
+
+![Vendas por Mês](../resultados/graficos/vendas_por_mes.png)
+![Lucro Operacional](../resultados/graficos/lucro_operacional.png)
+
+## Tabela de Resumo de KPIs
+
+| Total Vendas | Lucro Médio | Total de Clientes |
+|--------------|------------|-----------------|
+| 12345        | 6789       | 1000            |
+

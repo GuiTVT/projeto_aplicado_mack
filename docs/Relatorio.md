@@ -1,5 +1,5 @@
-## Relatório – Projeto Aplicado I 
-1. Título do trabalho
+Relatório – Projeto Aplicado I 
+## 1. Título do trabalho
 
 Análise Exploratória de Dados: Performance da Varejista Fictícia Contoso, uma abordagem em R.
 
@@ -24,7 +24,7 @@ Etapa	Atividade	Entregável	Prazo
 4	Encerramento do projeto	Projeto final	27/11
 5. Organização no GitHub
 
-##  Estrutura de pastas
+ ## Estrutura de pastas
 
 projeto_aplicado_I/
 │

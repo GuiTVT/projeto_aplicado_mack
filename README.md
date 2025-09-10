@@ -1,6 +1,4 @@
-## Título do trabalho
-
-Análise Exploratória de Dados: Performance da Varejista Fictícia Contoso, uma abordagem em R.
+## Análise Exploratória de Dados: Performance da Varejista Fictícia Contoso, uma abordagem em R.
 
 ## Membros do grupo
 

@@ -1,0 +1,4 @@
+OrderID,CustomerID,Product,Quantity,NetPrice,UnitCost
+1,101,Notebook,2,5000,3500
+2,102,Mouse,5,250,150
+3,103,Monitor,1,1200,800

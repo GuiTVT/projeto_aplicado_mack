@@ -11,6 +11,8 @@ Guilherme Marques Gomes dos Santos
 
 Sophia Pereira Ramos
 
+Lincoln Cavalcanti Bertoldo Alves
+
 ## 3. Contexto do estudo
 
 O presente trabalho tem como objetivo realizar uma Análise Exploratória de Dados (AED) sobre a performance da varejista fictícia Contoso.

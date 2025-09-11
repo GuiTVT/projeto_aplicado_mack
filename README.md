@@ -11,6 +11,8 @@ Guilherme Marques Gomes dos Santos
 
 Sophia Pereira Ramos
 
+Lincoln Cavalcanti Bertoldo Alves
+
 ## Contexto do estudo
 
 O estudo busca analisar a performance da empresa fictícia Contoso, criada pela Microsoft para fins de demonstração em ferramentas de Business Intelligence (BI). O objetivo é explorar o dataset em R, compreendendo métricas de vendas e performance operacional.
